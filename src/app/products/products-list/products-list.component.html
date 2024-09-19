@@ -1,0 +1,18 @@
+<table>
+    <tr>
+        <th>🔎</th>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+    </tr>
+
+    @for (product of products; track product.id) {
+    <tr [title]="product.description">
+        <td><a [routerLink]="['/products', product.id]">🔎</a></td>
+        <td>{{product.id}}</td>
+        <td>{{product.name}}</td>
+        <td>{{product.price}}</td>
+    </tr>
+    }
+
+</table>

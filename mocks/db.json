@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+      "price": 1200
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "description": "Latest model with a powerful camera and 5G connectivity.",
+      "price": 800
+    },
+    {
+      "id": "3",
+      "name": "Headphones",
+      "description": "Noise-cancelling over-ear headphones with 20 hours battery life.",
+      "price": 150
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch",
+      "description": "Feature-packed smartwatch with heart rate monitoring.",
+      "price": 360
+    },
+    {
+      "id": "5",
+      "name": "Gaming Console",
+      "description": "Next-gen console with 4K gaming capabilities.",
+      "price": 500
+    },
+    {
+      "id": "6",
+      "name": "Monitor",
+      "description": "Great monitor",
+      "price": 299.99
+    },
+    {
+      "id": "fa27",
+      "name": "Quentin",
+      "description": "Votre formateur",
+      "price": 0
+    },
+    {
+      "id": "dbaa",
+      "name": "description",
+      "description": "dazdazdad",
+      "price": 22
+    },
+    {
+      "id": "ae78",
+      "name": "azd",
+      "description": "azd",
+      "price": 2
+    }
+  ]
+}
